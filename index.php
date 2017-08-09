@@ -69,10 +69,10 @@
     <div class="overlay">
       <div class="container">
         <div class="row">
-          <div class="col-md-10 intro-text">
+          <div class="col-md-12 intro-text">
             <h1>Animal não é brinquedo! </h1>
             <p>Seja um guardião responsável e não abandone, não compre e ajude quem precisa muito de você. </p>
-            <a href="#about" class="btn btn-custom btn-lg page-scroll">More Info</a> </div>
+            <a href="#about" class="btn btn-custom btn-lg page-scroll">Colabore</a> </div>
         </div>
       </div>
     </div>
