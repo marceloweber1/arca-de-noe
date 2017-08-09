@@ -70,9 +70,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 col-md-offset-2 intro-text">
-            <h1>Landscaping Services</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br>
-              Duis sed dapibus leo nec ornare diam.</p>
+            <h1>Animal não é brinquedo! </h1>
+            <p>Seja um guardião responsável e não abandone, não compre e ajude quem precisa muito de você. </p>
             <a href="#about" class="btn btn-custom btn-lg page-scroll">More Info</a> </div>
         </div>
       </div>
@@ -85,25 +84,18 @@
     <div class="row">
       <div class="col-xs-12 col-md-6">
         <div class="about-text">
-          <h2>Bem vindo a <span>Arca de Noé</span></h2>
+          <h2>Bem-vindo a <span>Arca de Noé!</span></h2>
           <hr>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at. Duis sed dapibus leo nec ornare diam commodo nibh.</p>
-          <a href="#services" class="btn btn-custom btn-lg page-scroll">View All Services</a> </div>
+          <p>Somos apaixonados pelos animais e fazemos de tudo para cuidar e proteger aqueles que não podem pedir por ajuda. Oferecemos diversos serviços, contamos com consultório próprio, que proporciona procedimentos como castração, consultorias veterinárias, banho e tosa, tudo isso a baixo custo. E toda a renda é destinada aos tratamentos e manutenção dos animais abrigados por nós.</p>
+          <p>Além disso dependemos de doações e de voluntários. Entre em contato e conheça o nosso trabalho.</p>
+          <p>Contamos com você!</p>
+          <a href="#services" class="btn btn-custom btn-lg page-scroll">Ver todos os serviços</a> </div>
       </div>
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="img/about-1.png" alt=" "> </div>
-        <div class="about-desc">
-          <h3>Garden Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis.</p>
-        </div>
       </div>
       <div class="col-xs-12 col-md-3">
         <div class="about-media"> <img src="img/about-2.png" alt=" "> </div>
-        <div class="about-desc">
-          <h3>Lawn Care</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante.</p>
-        </div>
       </div>
     </div>
   </div>
@@ -125,42 +117,42 @@
         <div class="service-media"> <img src="img/services/service-1.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Castração</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Basta um casal para gerar milhares de animais abandonados. Faça a castração do seu bichinho a baixo custo e ajude a salvar outras vidas.</p>
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/service-2.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Cirurgias</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Não se preocupe se o seu bichinho precisar de ajuda, nós temos uma excelente estrutura para atendê-lo. </p>
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/service-3.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Vacinação</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Cuide bem do seu melhor amigo e previna doenças que podem até matar. Além de ajudar o seu bichinho você ainda pode ajudar os outros que ainda não tem um lar. </p>
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/service-4.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Atendimento</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>O direito a uma boa saúde não é exclusividade do ser humano, os animais também precisam de todo o cuidado. Oferecemos atendimento de qualidade e com os melhores profissionais.</p>
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/service-5.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Tártaro</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Assim como acontece com a gente, nossos amigos pets também precisam de uma higiene bucal para evitar complicações e doenças. Aqui ele sai com os dentes limpinhos.</p>
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/service-6.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Taxi Dog</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Transportamos os animais domésticos com todo conforto e segurança e os preços variam de acordo com a distância. </p>
         </div>
       </div>
     </div>
@@ -176,14 +168,14 @@
     <div class="col-md-10 col-md-offset-1 section-title text-center">
       <h2>Colabore</h2>
       <hr>
-      <p>Participe dos nossos programas de adoção e apadrinhamento</p>
+      <p>Seja um apoiador da Arca de Noé</p>
     </div>
     <div class="row">
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/donation-1.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Doações</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Para doar, clique no botão abaixo e preencha o formulário do sistema.</p>
           <a href="http://ministerioarcadenoe.com/form_doacao.html" class="btn btn-custom btn-lg page-scroll">Saber Mais</a>
         </div>
       </div>
@@ -191,7 +183,7 @@
         <div class="service-media"> <img src="img/services/donation-2.png" alt=" "> </div>
         <div class="service-desc">
           <h3>Depósito</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Para doar, clique no botão abaixo e preencha o formulário do sistema.</p>
           <a href="http://ministerioarcadenoe.com/form_doacao.html" class="btn btn-custom btn-lg page-scroll">Saber Mais</a>
         </div>
       </div>
@@ -199,7 +191,7 @@
         <div class="service-media"> <img src="img/services/donation-3.png" alt=" "> </div>
         <div class="service-desc">
           <h3>PagSeguro</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+          <p>Para doar, clique no botão abaixo para ser direcionado para o sistema de doações.</p>
           <a href="http://ministerioarcadenoe.com/form_doacao.html" class="btn btn-custom btn-lg page-scroll">Saber Mais</a>
         </div>
       </div>
@@ -219,20 +211,20 @@
         <div class="col-md-10 col-md-offset-1">
           <div id="testimonial" class="owl-carousel owl-theme">
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
+              <p>"Foi uma experiência totalmente gratificante, ver que com um pouco de cada conseguimos transformar aquele local com uma pintura, passando cimento no canteiro, organizando o lixo acumulado. Dar outra "cara" ao ambiente e de certa forma ajudar todas pessoas envolvidas com esse trabalho que é tão lindo e as vezes acaba não sendo reconhecido. Foi algo que mexeu muito comigo e me incentivou a fazer muito mais."</p>
+              <p>- Alexandre, Colaborador</p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- Jenny DOE, Parker County, TX</p>
+              <p>"Foi uma experiência totalmente gratificante, ver que com um pouco de cada conseguimos transformar aquele local com uma pintura, passando cimento no canteiro, organizando o lixo acumulado. Dar outra "cara" ao ambiente e de certa forma ajudar todas pessoas envolvidas com esse trabalho que é tão lindo e as vezes acaba não sendo reconhecido. Foi algo que mexeu muito comigo e me incentivou a fazer muito mais."</p>
+              <p>- Alexandre, Colaborador</p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
+              <p>"Foi uma experiência totalmente gratificante, ver que com um pouco de cada conseguimos transformar aquele local com uma pintura, passando cimento no canteiro, organizando o lixo acumulado. Dar outra "cara" ao ambiente e de certa forma ajudar todas pessoas envolvidas com esse trabalho que é tão lindo e as vezes acaba não sendo reconhecido. Foi algo que mexeu muito comigo e me incentivou a fazer muito mais."</p>
+              <p>- Alexandre, Colaborador</p>
             </div>
             <div class="item">
-              <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam. Sed commodo nibh ante facilisis bibendum dolor feugiat at duis sed dapibus leo nec ornare diam."</p>
-              <p>- John DOE, Parker County, TX</p>
+              <p>"Foi uma experiência totalmente gratificante, ver que com um pouco de cada conseguimos transformar aquele local com uma pintura, passando cimento no canteiro, organizando o lixo acumulado. Dar outra "cara" ao ambiente e de certa forma ajudar todas pessoas envolvidas com esse trabalho que é tão lindo e as vezes acaba não sendo reconhecido. Foi algo que mexeu muito comigo e me incentivou a fazer muito mais."</p>
+              <p>- Alexandre, Colaborador</p>
             </div>
           </div>
         </div>
@@ -249,28 +241,21 @@
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed dapibus leonec.</p>
     </div>
     <div class="col-md-10 col-md-offset-1 contact-info">
-      <div class="col-md-4">
-        <h3>Localização</h3>
-        <hr>
-        <div class="contact-item">
-          <p>4321 California St,</p>
-          <p>San Francisco, CA 12345</p>
-        </div>
-      </div>
-      <div class="col-md-4">
+      <div class="col-md-6">
         <h3>Horário de funcionamento</h3>
         <hr>
         <div class="contact-item">
-          <p>Monday-Saturday: 07:00 - 18:00</p>
-          <p>Sunday: CLOSED</p>
+          <p>Segunda à Sexta: 09:00 às 17:00</p>
+          <p>Sábado: 09:00 às 15:00</p>
+          <p>Domingos e Feriados: FECHADO</p>
         </div>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-6">
         <h3>Informações</h3>
         <hr>
         <div class="contact-item">
-          <p>Phone: +1 123 456 1234</p>
-          <p>Email: info@company.com</p>
+          <p>Telefones: (31) 4102-0020 | (31) 3656-6003</p>
+          <p>Email: contato@ministerioarcadenoe.com</p>
         </div>
       </div>
     </div>
