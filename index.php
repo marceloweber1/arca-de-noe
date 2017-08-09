@@ -184,23 +184,33 @@
         <div class="service-desc">
           <h3>Doações</h3>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
-          <a href="https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=9f098e86cc63cca49f769e6e5786ba2f#rmcl" class="btn btn-custom btn-lg page-scroll">Saber Mais</a>
+          <a href="http://ministerioarcadenoe.com/form_doacao.html" class="btn btn-custom btn-lg page-scroll">Saber Mais</a>
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/donation-2.png" alt=" "> </div>
         <div class="service-desc">
-          <h3>Depósito</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
-          <a href="https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=9f098e86cc63cca49f769e6e5786ba2f#rmcl" class="btn btn-custom btn-lg page-scroll">Saber Mais</a>
+          <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+            <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO --><br>
+            <input type="hidden" name="currency" value="BRL"><br>
+            <input type="hidden" name="receiverEmail" value="pmaia06@gmail.com"><br>
+            <h3>Depósito</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+            <input type="submit" name="submit"  class="btn btn-custom btn-lg page-scroll">
+          </form>
         </div>
       </div>
       <div class="col-md-4 text-center">
         <div class="service-media"> <img src="img/services/donation-3.png" alt=" "> </div>
         <div class="service-desc">
-          <h3>PagSeguro</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
-          <a href="https://pagseguro.uol.com.br/checkout/nc/nl/donation/sender-identification.jhtml?t=9f098e86cc63cca49f769e6e5786ba2f#rmcl" class="btn btn-custom btn-lg page-scroll">Saber Mais</a>
+          <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+            <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO --><br>
+            <input type="hidden" name="currency" value="BRL"><br>
+            <input type="hidden" name="receiverEmail" value="pmaia06@gmail.com"><br>
+            <h3>PagSeguro</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.</p>
+            <input type="submit" name="submit"  class="btn btn-custom btn-lg page-scroll">
+          </form>
         </div>
       </div>
     </div>
